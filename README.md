@@ -20,16 +20,16 @@ NLTK (VADER Sentiment Analysis) – Sentiment detection
 Langdetect – Automatic language detection
 
 **Interaction Scenarios**
-1)Order Management
+1) Order Management
 Users can check their order status.
 Users can cancel an order by providing a valid order number (1-10).
 The chatbot ensures valid inputs and provides appropriate responses.
 
-2)FAQ & General Assistance
+2) FAQ & General Assistance
 Users can ask about payment methods, return policies, and shipping options.
 The chatbot responds with predefined answers based on frequently asked questions.
 
-3)Real-World Data Integration
+3) Real-World Data Integration
 Users can inquire about the weather for a specific city.
 Users can check if bad weather may cause shipping delays.
 
