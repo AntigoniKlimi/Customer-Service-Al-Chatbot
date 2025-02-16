@@ -5,12 +5,12 @@ This AI-powered Customer Service Chatbot is designed to provide users with real-
 This project is implemented using the Rasa framework, leveraging natural language understanding (NLU) and machine learning techniques to improve customer interactions.
 
 **Features**
-✔ Order Management: Users can check their order status or request order cancellation.
-✔ FAQ Handling: Provides quick responses to common questions about payments, returns, and shipping.
-✔ Real-time Weather Integration: Retrieves weather forecasts and checks weather conditions that might affect deliveries.
-✔ Sentiment Analysis: Detects user emotions (happy, sad, angry, etc.) and adapts responses accordingly.
-✔ Multilingual Support: Detects user language and responds in either English or Greek.
-✔ Fallback Handling: If an API request fails or an unrecognized intent is received, the chatbot provides alternative responses.
+1) Order Management: Users can check their order status or request order cancellation.
+2) FAQ Handling: Provides quick responses to common questions about payments, returns, and shipping.
+3) Real-time Weather Integration: Retrieves weather forecasts and checks weather conditions that might affect deliveries.
+4) Sentiment Analysis: Detects user emotions (happy, sad, angry, etc.) and adapts responses accordingly.
+5) Multilingual Support: Detects user language and responds in either English or Greek.
+6) Fallback Handling: If an API request fails or an unrecognized intent is received, the chatbot provides alternative responses.
 
 **Technologies Used**
 Rasa 3.6.21 – Conversational AI framework
